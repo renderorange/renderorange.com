@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on renderorange</title><link>http://10.0.0.100:1313/</link><description>Recent content in Introduction on renderorange</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://10.0.0.100:1313/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on renderorange</title>
+    <link>https://renderorange.com/</link>
+    <description>Recent content in Introduction on renderorange</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://renderorange.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Here we go again</title>
+      <link>https://renderorange.com/posts/here-we-go-again/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://renderorange.com/posts/here-we-go-again/</guid>
+      <description>&lt;h2 id=&#34;an-intro-of-sorts&#34;&gt;An intro of sorts&lt;/h2&gt;&#xA;&lt;p&gt;Well, here we go again.  I&amp;rsquo;ve started and retired more blogs than I can remember, and honestly, apart from my Appalachian Trail content, there really isn&amp;rsquo;t much I wish I still had.&lt;/p&gt;&#xA;&lt;p&gt;Here you’ll find posts about my several hobbies, new projects I’m working on, political and business ramblings, and random stuff I enjoy.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
