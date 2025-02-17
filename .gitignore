@@ -1,3 +1,4 @@
 tmp/
 *.swp
 .hugo_build.lock
+public/*
