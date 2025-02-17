@@ -26,7 +26,7 @@ disableKinds = ['taxonomy']
 [menu]
 [[menu.after]]
     name = "Resume"
-    url = "https://renderorange.com/resume.html"
+    url = "/resume.html"
     weight = 2
 
 [[menu.after]]
@@ -39,3 +39,7 @@ disableKinds = ['taxonomy']
     url = "https://m.adventurehound.io/@renderorange"
     weight = 4
 
+[[menu.after]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 5
