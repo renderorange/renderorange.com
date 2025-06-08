@@ -2,7 +2,7 @@
 title = "Dr. Bitcrusher or: How I Learned to Stop Worrying and Love Experimentation"
 description = ""
 tags = [
-    "microcassette",
+    "tape",
 ]
 date = "2025-04-19"
 categories = [

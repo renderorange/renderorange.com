@@ -2,7 +2,7 @@
 title = "Things have memory"
 description = ""
 tags = [
-    "microcassette",
+    "tape",
 ]
 date = "2025-02-27"
 categories = [

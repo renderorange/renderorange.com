@@ -2,7 +2,7 @@
 title = "New series of posts"
 description = ""
 tags = [
-    "microcassette",
+    "tape",
 ]
 date = "2025-02-17"
 categories = [

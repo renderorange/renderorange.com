@@ -2,7 +2,7 @@
 title = "First tape loop attempt"
 description = ""
 tags = [
-    "microcassette",
+    "tape",
 ]
 date = "2025-03-18"
 categories = [

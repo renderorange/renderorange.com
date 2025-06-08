@@ -2,7 +2,7 @@
 title = "Mark pick up the phone"
 description = ""
 tags = [
-    "microcassette",
+    "tape",
 ]
 date = "2025-02-19"
 categories = [

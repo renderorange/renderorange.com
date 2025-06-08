@@ -2,7 +2,7 @@
 title = "Dr. Sharon Bannister to the faculty affairs committee"
 description = ""
 tags = [
-    "microcassette",
+    "tape",
 ]
 date = "2025-02-18"
 categories = [
