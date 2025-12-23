@@ -24,10 +24,10 @@ disableKinds = ['taxonomy']
     BookSearch = true
 
 [menu]
-[[menu.after]]
-    name = "Resume"
-    url = "/resume.html"
-    weight = 2
+#[[menu.after]]
+#    name = "Resume"
+#    url = "/resume.html"
+#    weight = 2
 
 [[menu.after]]
     name = "Github"
