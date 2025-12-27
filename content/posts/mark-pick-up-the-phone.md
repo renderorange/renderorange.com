@@ -16,7 +16,7 @@ menu = "main"
 This is the tape that got me started down the trail of listening to tapes.
 
 {{< figure
-    src="https://content.renderorange.com/images/the-mark-of-quality.jpeg"
+    src="/images/the-mark-of-quality.jpeg"
     alt="A microcassette sitting on a desk"
     class="mw-50"
 >}}
@@ -44,6 +44,6 @@ Then boom, the motherload.  Mark records a call of himself talking with his wife
 
 Answering machine tapes are the really juicy ones.
 
-[mark-pick-up-the-phone.mp3](https://content.renderorange.com/audio/microcassettes/mark-pick-up-the-phone.mp3)
+[mark-pick-up-the-phone.mp3](/audio/microcassettes/mark-pick-up-the-phone.mp3)
 
 Enjoy.

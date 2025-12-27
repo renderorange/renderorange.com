@@ -16,7 +16,7 @@ menu = "main"
 One of my latest microcassette lot purchases consists mostly of recorded lectures from an unknown college (maybe Yale).  Each tape has the lecture name written on the label; greek, greek #2, hellenistic greek, greek 2nd, futurist, late hellenistic greek.
 
 {{< figure
-    src="https://content.renderorange.com/images/hellenistic-greek.jpeg"
+    src="/images/hellenistic-greek.jpeg"
     alt="A microcassettes sitting on a desk"
     class="mw-50"
 >}}
@@ -29,7 +29,7 @@ So far, amongst the noise, I've found one golden nugget.  A long and winding sto
 > 
 > *-- The person who owned these tapes, I guess*
 
-[a-long-and-winding-story.mp3](https://content.renderorange.com/audio/microcassettes/a-long-and-winding-story.mp3)
+[a-long-and-winding-story.mp3](/audio/microcassettes/a-long-and-winding-story.mp3)
 
 Enjoy.
 

@@ -20,13 +20,13 @@ I covered each cavity with the copper tape then ran a small copper wire between 
 I also re-shielded the buttom[1] of the pickguard, ensuring I overlapped a couple of screw holes to connect it to all cavities.
 
 {{< figure
-    src="https://content.renderorange.com/images/guitars/blue-strat/01-shielding.jpeg"
+    src="/images/guitars/blue-strat/01-shielding.jpeg"
     alt="A slightly dismantled guitar on a workbench"
     class="mw-50"
 >}}
 
 {{< figure
-    src="https://content.renderorange.com/images/guitars/blue-strat/02-shielding.jpeg"
+    src="/images/guitars/blue-strat/02-shielding.jpeg"
     alt="A slightly dismantled guitar on a workbench"
     class="mw-50"
 >}}
@@ -36,7 +36,7 @@ I also re-shielded the buttom[1] of the pickguard, ensuring I overlapped a coupl
 To make for a buttery smooth neck, I then applied butter.  Nope, I lightly sanded the neck with 220 grit sanding blocks.
 
 {{< figure
-    src="https://content.renderorange.com/images/guitars/blue-strat/03-shielding.jpeg"
+    src="/images/guitars/blue-strat/03-shielding.jpeg"
     alt="A sanded guitar neck"
     class="mw-50"
 >}}

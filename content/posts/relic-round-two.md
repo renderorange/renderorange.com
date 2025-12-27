@@ -16,25 +16,25 @@ menu = "main"
 After another round of relic'ing it's starting to come along.
 
 {{< figure
-    src="https://content.renderorange.com/images/guitars/blue-strat/01-checking.jpeg"
+    src="/images/guitars/blue-strat/01-checking.jpeg"
     alt="A slightly dismantled guitar on a workbench"
     class="mw-50"
 >}}
 
 {{< figure
-    src="https://content.renderorange.com/images/guitars/blue-strat/02-checking.jpeg"
+    src="/images/guitars/blue-strat/02-checking.jpeg"
     alt="A slightly dismantled guitar on a workbench"
     class="mw-50"
 >}}
 
 {{< figure
-    src="https://content.renderorange.com/images/guitars/blue-strat/03-checking.jpeg"
+    src="/images/guitars/blue-strat/03-checking.jpeg"
     alt="A slightly dismantled guitar on a workbench"
     class="mw-50"
 >}}
 
 {{< figure
-    src="https://content.renderorange.com/images/guitars/blue-strat/04-checking.jpeg"
+    src="/images/guitars/blue-strat/04-checking.jpeg"
     alt="A slightly dismantled guitar on a workbench"
     class="mw-50"
 >}}

@@ -16,7 +16,7 @@ menu = "main"
 This past weekend my wife and I went to a market event where I picked up a great mixtape.
 
 {{< figure
-    src="https://content.renderorange.com/images/scott-lessthanthree-kerry/front_sleeve.jpeg"
+    src="/images/scott-lessthanthree-kerry/front_sleeve.jpeg"
     alt="A cassette tape case on a desk"
     class="mw-50"
 >}}
@@ -24,7 +24,7 @@ This past weekend my wife and I went to a market event where I picked up a great
 The tape required fixing a previous repair job that kept the tape from rewinding or playing past the massive hunk of tape.
 
 {{< figure
-    src="https://content.renderorange.com/images/scott-lessthanthree-kerry/repair.jpeg"
+    src="/images/scott-lessthanthree-kerry/repair.jpeg"
     alt="A hand holding a piece of broken tape next to a tape and notebook"
     class="mw-50"
 >}}
@@ -36,7 +36,7 @@ The recording is very tinny and in several places almost difficult to listen to 
 Scott worked hard to make a great cassette.  You can hear the recording head start and stop between each of the songs.  The list of songs was carefully curated.  A few times you can hear a different song pop through in the gap between songs.  This might have been from Scott recording over a previously used cassette.  The inner jacket says "Iron Maiden, Live After Death."
 
 {{< figure
-    src="https://content.renderorange.com/images/scott-lessthanthree-kerry/inner_sleeve.jpeg"
+    src="/images/scott-lessthanthree-kerry/inner_sleeve.jpeg"
     alt="A cassette tape sleeve on a desk"
     class="mw-50"
 >}}
@@ -59,7 +59,7 @@ Several forums mention this specific manufacturing run of Maxell XLII 90 being o
 I present to you, "Scott <3’s Kerry. Kerry is a babe! I <3 U!" by Scott Somebody
 
 {{< figure
-    src="https://content.renderorange.com/images/scott-lessthanthree-kerry/side_a.jpeg"
+    src="/images/scott-lessthanthree-kerry/side_a.jpeg"
     alt="A cassette tape on a desk"
     class="mw-50"
 >}}
@@ -79,10 +79,10 @@ Saving All My Love for You, Whitney Houston (1985)
 (Blaine's tape repair job at 41m58s)
 ```
 
-[scott-lessthanthrees-kerry_side-a.mp3](https://content.renderorange.com/audio/scott-lessthanthree-kerry_side-a.mp3)
+[scott-lessthanthrees-kerry_side-a.mp3](/audio/scott-lessthanthree-kerry_side-a.mp3)
 
 {{< figure
-    src="https://content.renderorange.com/images/scott-lessthanthree-kerry/side_b.jpeg"
+    src="/images/scott-lessthanthree-kerry/side_b.jpeg"
     alt="A cassette tape on a desk"
     class="mw-50"
 >}}
@@ -104,6 +104,6 @@ Remember the Feeling, Chicago (1984)
 Surfin' U.S.A, The Beach Boys (1963)
 ```
 
-[scott-lessthanthrees-kerry_side-b.mp3](https://content.renderorange.com/audio/scott-lessthanthree-kerry_side-b.mp3)
+[scott-lessthanthrees-kerry_side-b.mp3](/audio/scott-lessthanthree-kerry_side-b.mp3)
 
 Enjoy.

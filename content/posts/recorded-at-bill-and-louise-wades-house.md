@@ -32,19 +32,19 @@ One particular tape stood out.
 The label on the side of the tape case read, "Recorded at Bill and Louise Wade's House.  420 Homeplace Dr, Salem, VA. Aug 28 - 91."  The label on the tape read, "Duke - Jesse - Bob - Steve - Bill."
 
 {{< figure
-    src="https://content.renderorange.com/images/recorded-at-bill-and-louise-wades-house/duke-jesse-bob-steve-bill_one.jpeg"
+    src="/images/recorded-at-bill-and-louise-wades-house/duke-jesse-bob-steve-bill_one.jpeg"
     alt="A cassette tape in a tape player on a desk"
     class="mw-50"
 >}}
 
 {{< figure
-    src="https://content.renderorange.com/images/recorded-at-bill-and-louise-wades-house/duke-jesse-bob-steve-bill_two.jpeg"
+    src="/images/recorded-at-bill-and-louise-wades-house/duke-jesse-bob-steve-bill_two.jpeg"
     alt="A cassette tape in a tape player on a desk"
     class="mw-50"
 >}}
 
 {{< figure
-    src="https://content.renderorange.com/images/recorded-at-bill-and-louise-wades-house/duke-jesse-bob-steve-bill_three.jpeg"
+    src="/images/recorded-at-bill-and-louise-wades-house/duke-jesse-bob-steve-bill_three.jpeg"
     alt="A cassette tape in a tape player on a desk"
     class="mw-50"
 >}}
@@ -91,7 +91,7 @@ Just Because
 A Boogie
 ```
 
-[duke-jesse-bob-steve-bill_side-one.mp3](https://content.renderorange.com/audio/duke-jesse-bob-steve-bill_side-one.mp3)
+[duke-jesse-bob-steve-bill_side-one.mp3](/audio/duke-jesse-bob-steve-bill_side-one.mp3)
 
 ```
 Side B
@@ -108,6 +108,6 @@ Salley Goodin'
 May the Good Lord Bless and Keep You
 ```
 
-[duke-jesse-bob-steve-bill_side-two.mp3](https://content.renderorange.com/audio/duke-jesse-bob-steve-bill_side-two.mp3)
+[duke-jesse-bob-steve-bill_side-two.mp3](/audio/duke-jesse-bob-steve-bill_side-two.mp3)
 
 Enjoy.

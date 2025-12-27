@@ -18,7 +18,7 @@ I spend a fair amount of my freetime researching and experimenting with old tech
 These beauties, microcassettes, with hours of dictation, random thoughts, answering machine messages, and candid slices of unscripted life, are all waiting to be listened to and shared.
 
 {{< figure
-    src="https://content.renderorange.com/images/microcassette.jpg"
+    src="/images/microcassette.jpg"
     alt="A small pile of microcassettes and a microcassette player sitting on a desk"
     class="mw-50"
 >}}

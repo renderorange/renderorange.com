@@ -20,25 +20,25 @@ The other day my friend Clay from [Franklin Music](https://www.facebook.com/fran
 I hopped in my van and drove the gloriously beautiful trip to Rocky Mount to check it out.  Apart from a couple frets that were starting to lift, the overall fret wear is good, but will need a full refret in a few years.  A slight leveling might do it good anyway.  The neck was straight with no major cracks or damage.  I don't like the look of Stratocasters, but after inspecting and holding this guitar, other than the stale cigarette smell (yuck, but can be cleaned), this guitar had the spark that said, with some work, it would be an excellent instrument I would enjoy playing.
 
 {{< figure
-    src="https://content.renderorange.com/images/guitars/blue-strat/prework-body-front.jpeg"
+    src="/images/guitars/blue-strat/prework-body-front.jpeg"
     alt="A slightly dismantled guitar on a workbench"
     class="mw-50"
 >}}
 
 {{< figure
-    src="https://content.renderorange.com/images/guitars/blue-strat/prework-body-back.jpeg"
+    src="/images/guitars/blue-strat/prework-body-back.jpeg"
     alt="A slightly dismantled guitar on a workbench"
     class="mw-50"
 >}}
 
 {{< figure
-    src="https://content.renderorange.com/images/guitars/blue-strat/prework-neck-front.jpeg"
+    src="/images/guitars/blue-strat/prework-neck-front.jpeg"
     alt="A slightly dismantled guitar on a workbench"
     class="mw-50"
 >}}
 
 {{< figure
-    src="https://content.renderorange.com/images/guitars/blue-strat/prework-neck-back.jpeg"
+    src="/images/guitars/blue-strat/prework-neck-back.jpeg"
     alt="A slightly dismantled guitar on a workbench"
     class="mw-50"
 >}}
@@ -48,7 +48,7 @@ I hopped in my van and drove the gloriously beautiful trip to Rocky Mount to che
 I started cleaning up the body and fretboard with some acetone, and oh what's this?!  Red paint under the blue?!  This is going to be soo good.
 
 {{< figure
-    src="https://content.renderorange.com/images/guitars/blue-strat/cleanup-red-under.jpeg"
+    src="/images/guitars/blue-strat/cleanup-red-under.jpeg"
     alt="Closeup of chips of paint on guitar body"
     class="mw-50"
 >}}

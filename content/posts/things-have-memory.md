@@ -16,7 +16,7 @@ menu = "main"
 What a find!  It's tapes like this that really make me happy to do this.  All of these wonderful little relics, memories long forgotten, telling the story of a person.
 
 {{< figure
-    src="https://content.renderorange.com/images/things-have-memory.jpg"
+    src="/images/things-have-memory.jpg"
     alt="A microcassette sitting on a desk"
     class="mw-50"
 >}}
@@ -38,7 +38,7 @@ We end side one with a recording of two men, seemingly recorded without their kn
 > 
 > *-- Abusive man who's probably dead now*
 
-[things-have-memory-one.mp3](https://content.renderorange.com/audio/microcassettes/things-have-memory-one.mp3)
+[things-have-memory-one.mp3](/audio/microcassettes/things-have-memory-one.mp3)
 
 ## God dangit Budrow
 
@@ -50,7 +50,7 @@ We follow it up with a long recording of what sounds like someone hammering wood
 > 
 > *-- Woman presumably to her dog causing some lovely mischief*
 
-[things-have-memory-two.mp3](https://content.renderorange.com/audio/microcassettes/things-have-memory-two.mp3)
+[things-have-memory-two.mp3](/audio/microcassettes/things-have-memory-two.mp3)
 
 We then have some testing where we get some more juicy tidbits of information.
 
@@ -64,6 +64,6 @@ I extracted the testing section into a different file since it was recorded at a
 >
 > *-- A guitar playing, Harley riding, BBQ eating, dog loving, lady*
 
-[things-have-memory-three.mp3](https://content.renderorange.com/audio/microcassettes/things-have-memory-three.mp3)
+[things-have-memory-three.mp3](/audio/microcassettes/things-have-memory-three.mp3)
 
 Enjoy.

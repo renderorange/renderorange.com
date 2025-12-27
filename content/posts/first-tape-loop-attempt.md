@@ -26,7 +26,7 @@ I've purchased several great sounding cassette tape loops through Etsy.  Althoug
 After some research I tried my hand at making my first microcassette tape loop.
 
 {{< figure
-    src="https://content.renderorange.com/images/first-tape-loop-attempt/05-spliced-outside.jpeg"
+    src="/images/first-tape-loop-attempt/05-spliced-outside.jpeg"
     alt="A microcassette tape loop sitting on a desk"
     class="mw-50"
 >}}

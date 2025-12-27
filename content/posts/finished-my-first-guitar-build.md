@@ -28,7 +28,7 @@ Now the tricky part, soldering.  I went with the layout that came with the picku
 I got all of the grounds set, all of the junction wires installed, and wired up the pickups.  Everything appeared to test correctly so I put the pickguard on and installed all of the screws.  More on that later.
 
 {{< figure
-    src="https://content.renderorange.com/images/guitars/blue-strat/01-finished.jpeg"
+    src="/images/guitars/blue-strat/01-finished.jpeg"
     alt="Guitar with the pickguard off and electronics exposed"
     class="mw-50"
 >}}
@@ -48,7 +48,7 @@ Long story short, I was able to isolate the issue.  I had over-heated one of the
 The wiring kit I got has two special parts that my original build didn't.  First, it's wired with an additional capacitor so each tone pot is running through one.  From there, it has a treble bleed circuit on the volume pot which helps maintain the treble tone as you roll off the volume (something I don't do a lot of, but anyway).  Finally, the 5 way switch is customized with dedicated bridge pickup tone and separate neck and middle pickup tone.  Having control over the middle pickup is one of the more popular strat modifications people mention on Youtube.  I'm glad I accidently fucked up the wiring and went with this.
 
 {{< figure
-    src="https://content.renderorange.com/images/guitars/blue-strat/02-finished.jpeg"
+    src="/images/guitars/blue-strat/02-finished.jpeg"
     alt="Guitar with close up of wiring harness"
     class="mw-50"
 >}}
@@ -68,7 +68,7 @@ Everytime I would put the pickguard back into the body, as soon as I put any pre
 It's finally done.  After all of the troubleshooting the payoff was great.  The sound is so nice and output strong.  It plays smoothly and the weight is very nice.
 
 {{< figure
-    src="https://content.renderorange.com/images/guitars/blue-strat/03-finished.jpeg"
+    src="/images/guitars/blue-strat/03-finished.jpeg"
     alt="The finished guitar"
     class="mw-50"
 >}}

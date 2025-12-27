@@ -16,8 +16,8 @@ menu = "main"
 I had an absolute blast with this tape, not only because of the content, but because of the detective work finding who this person was.
 
 {{< figure
-    src="https://content.renderorange.com/images/the-doctors-tape.jpg"
-    alt="A microcassettes sitting on a desk"
+    src="/images/the-doctors-tape.jpg"
+    alt="A microcassette sitting on a desk"
     class="mw-50"
 >}}
 
@@ -46,7 +46,7 @@ The way she edits her thoughts while dictating is quite something.  What a great
 
 The tape ends with reminders to her administrative assistant.  Sharon also presumably liked grandfather clocks.
 
-[dr-sharon-bannister-to-the-faculty-affairs-committee.mp3](https://content.renderorange.com/audio/microcassettes/dr-sharon-bannister-to-the-faculty-affairs-committee.mp3)
+[dr-sharon-bannister-to-the-faculty-affairs-committee.mp3](/audio/microcassettes/dr-sharon-bannister-to-the-faculty-affairs-committee.mp3)
 
 Enjoy.
 
